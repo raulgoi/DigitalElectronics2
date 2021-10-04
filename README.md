@@ -100,8 +100,9 @@ int main(void)
 
 ## Scheme
 
-![SED 2](https://user-images.githubusercontent.com/91128806/135856574-bd7c0070-7f02-4fc6-82d4-36bb0abbf70b.png)
 
+
+![SED 2](https://user-images.githubusercontent.com/91128806/135897888-bf547d81-d80b-4d1f-b8fc-f430f985fc46.png)
 
 
 
