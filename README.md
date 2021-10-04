@@ -1,6 +1,5 @@
 # DigitalElectronics2
-Laboratory
-# Title 1
+# Lab 1: Raul Gomez
 1. First item
    1. First item 2
 2. Second item
