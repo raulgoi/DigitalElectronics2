@@ -56,6 +56,7 @@ int main(void)
         _delay_ms(SHORT_DELAY);
         DDRB = DDRB | (1<<LED_GREEN);
         PORTB = PORTB & ~(1<<LED_GREEN);
+        _delay_ms(SHORT_DELAY);
         //A
         DDRB = DDRB | (1<<LED_GREEN);
         PORTB = PORTB & ~(1<<LED_GREEN);
