@@ -1,16 +1,26 @@
 # DigitalElectronics2
 # Lab 1: Raul Gomez
-1. First item
-   1. First item 2
-2. Second item
-## Title 2
+My github repository
 
-  * Unorder item
+(https://github.com/raulgoi/DigitalElectronics2/blob/main/README.md)
 
-### Title 3
+## Blink example
 
-(https://www.google.com)
+1. The meaning of:
+
+ * | : or bit to bit
+ * & : and bit to bit
+ * ^ : exclusive or
+ * ~ : Complement to one or bit to bit negation
+ * << : move to left
+ * >> : move to right
+
+2. Complete the table:
 
 
-First Header | Second Header
------------- | -------------
+| b | a | b or a | b and a | b xor a | not b |
+| - | - | ------ | ------- | ------- | ----- |
+| 0 | 0 |
+| 0 | 1 |
+| 1 | 0 |
+| 1 | 1 |
