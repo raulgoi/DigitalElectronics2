@@ -4,7 +4,7 @@ My github repository
 
 (https://github.com/raulgoi/DigitalElectronics2/blob/main/README.md)
 
-## Blink example
+## Blink 
 
 1. The meaning of:
 
@@ -20,13 +20,15 @@ My github repository
 
 | b | a | b or a | b and a | b xor a | not b |
 | - | - | ------ | ------- | ------- | ----- |
-| 0 | 0 |
-| 0 | 1 |
-| 1 | 0 |
-| 1 | 1 |
+| 0 | 0 | 0 | 0 | 0 | 1 |
+| 0 | 1 | 1 | 0 | 1 | 1 | 
+| 1 | 0 | 1 | 0 | 1 | 0 |
+| 1 | 1 | 1 | 1 | 0 | 0 |
 
 
 ## Morse code
+
+
 
 
 #define _delay_ms  SHORT_DELAY 5 ms
@@ -93,7 +95,7 @@ int main(void)
 
          }
 
-    // Will never reach this
+// Will never reach this
     return 0;
 }
 
